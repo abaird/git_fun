@@ -1,4 +1,4 @@
-[Yes mine Fuhrer!](http://www.youtube.com/watch?v=CDeG4S-mJts)
+[Yes!](http://www.youtube.com/watch?v=CDeG4S-mJts)
 ==================
 
 We have successfully executed a Git command!
