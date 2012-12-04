@@ -1,1 +1,6 @@
 bob dole likes to hear bob dole say bob dole.......BOB DOLE!
+
+
+
+
+this is the change I made when changing the file through RubyMine as opposed to gitBash. 110 well thought out keystrokes
